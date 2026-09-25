@@ -24,7 +24,7 @@ const founders: Founder[] = [
     name: 'Anas',
     role: 'Co-Founder',
     description: 'Anas found running during one of the most transformative periods of his life — and never looked back. He co-founded TogetherWeRunKech because he knows the miles feel lighter when shared. His warmth and energy make every new runner feel right at home from day one.',
-    image: '/assets/images/WhatsApp_Image_2026-09-25_at_17.27.55-1790353737816.jpeg',
+    image: '/assets/images/WhatsApp_Image_20ddd26-09-25_at_17.25.42-1790353603136.jpeg.jpeg',
     alt: 'Anas, co-founder of Together We Run Marrakech',
   },
 ];
