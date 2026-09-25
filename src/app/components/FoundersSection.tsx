@@ -91,7 +91,11 @@ export default function FoundersSection() {
                   src={founder.image}
                   alt={founder.alt}
                   fill
-                  className={i === 0 ? 'object-contain object-center' : 'object-cover object-top'}
+                  className={
+                    i === 0
+                      ? 'object-contain object-center'
+                      : 'object-cover object-center scale-[1.05]'
+                  }
                   sizes="(max-width: 640px) 100vw, 50vw"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-[#0A0A0A] via-[#0A0A0A]/20 to-transparent" />
